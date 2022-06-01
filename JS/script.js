@@ -17,3 +17,5 @@ emailInput.addEventListener('submit',(e)=>{
     
 })
 
+// AOS
+AOS.init()

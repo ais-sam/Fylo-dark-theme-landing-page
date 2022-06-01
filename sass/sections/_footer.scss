@@ -89,12 +89,8 @@ footer{
                 padding: 15px 22px;
                 border-radius: 27px;
                 max-width: 300px;
-                // background: linear-gradient(to right , $cyan,$call-to-action-blue);
-                // color: $white;
-                // font-weight: 700;
-                // cursor: pointer;
-                // flex-basis: 25%;
-                @include btn
+                @include btn;
+                font-weight: 500;
 
             }
             @media screen and (max-width:741px) {

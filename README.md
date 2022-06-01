@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/ais-sam/Fylo-dark-theme-landing-page-master](https://github.com/ais-sam/Fylo-dark-theme-landing-page-master)
-- Live Site URL: [https://ais-sam.github.io/Fylo-dark-theme-landing-page-master/](https://ais-sam.github.io/Fylo-dark-theme-landing-page-master/)
+- Live Site URL: [https://ais-sam.github.io/Fylo-dark-theme-landing-page/](https://ais-sam.github.io/Fylo-dark-theme-landing-page/)
 
 ## My process
 

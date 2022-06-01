@@ -582,6 +582,7 @@ footer .get-started form button {
   display: block;
   font-weight: 700;
   cursor: pointer;
+  font-weight: 500;
 }
 
 footer .get-started form button:hover {
